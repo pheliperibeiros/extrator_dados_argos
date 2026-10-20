@@ -1,0 +1,6 @@
+{
+  "name": "Extrator GAECO - Denúncias Ministeriais",
+  "description": "Extrator inteligente de dados para denúncias ministeriais do GAECO com planilhas de Entidades e Casos, e revisão assistida por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
